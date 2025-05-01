@@ -13,7 +13,7 @@ A lightweight, scalable SwiftUI app that fetches and displays images from the [P
 
 ## 🎥 Demo
 
-> *(Insert GIF or link to video demo here)*
+https://github.com/user-attachments/assets/f5f7412c-7e3b-479d-8e4c-6345858431a7
 
 ---
 
@@ -51,4 +51,4 @@ Added via **Swift Package Manager**:
 
 This project is paired with a full write-up on Medium:
 
-📝 Read the full article here → 
+📝 Read the full article here → https://kevinabram1000.medium.com/building-a-clean-swiftui-app-with-tca-the-composable-architecture-5164cf2a94cf
